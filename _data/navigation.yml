@@ -16,22 +16,22 @@ docs:
  - title: Wargame
     children:
       - title: "Webhacking.kr"
-        url: /docs/Wkr/
+        url: /_pages/Wkr/
       - title: "Pwnable.kr"
-        url: /docs/Pkr/
+        url: /_pages/Pkr/
       - title: "CTF Writeup"
-        url: /docs/CTF_Writeup/
+        url: /_pages/CTF_Writeup/
       
 
   - title: Hackurity
     children:
       - title: "System Hacking"
-        url: /docs/System/
+        url: /_pages/System/
       - title: "Web Hacking"
-        url: /docs/Web/
+        url: /_pages/Web/
   
 
   - title: Development
     children:
       - title: "Machine Learning"
-        url: /docs/ML/
+        url: /_pages/ML/
