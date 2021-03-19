@@ -10,28 +10,3 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  
-# sidebar
-docs:
-#  - title: Wargame
-#    children:
-  #    - title: "Webhacking.kr"
-   #     url: /_pages/Wkr/
-   #   - title: "Pwnable.kr"
-   #     url: /_pages/Pkr/
-   #   - title: "CTF Writeup"
-   #     url: /_pages/CTF_Writeup/
-      
-
-  - title: Hackurity
-    children:
-      - title: "System Hacking"
-        url: /_pages/System/
-      - title: "Web Hacking"
-        url: /_pages/Web/
-  
-
-  - title: Development
-    children:
-      - title: "Machine Learning"
-        url: /_pages/ML/
