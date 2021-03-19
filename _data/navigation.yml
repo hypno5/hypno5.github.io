@@ -13,14 +13,14 @@ main:
   
 # sidebar
 docs:
-  - title: Wargame
-    children:
-      - title: "Webhacking.kr"
-        url: /_pages/Wkr/
-      - title: "Pwnable.kr"
-        url: /_pages/Pkr/
-      - title: "CTF Writeup"
-        url: /_pages/CTF_Writeup/
+#  - title: Wargame
+#    children:
+  #    - title: "Webhacking.kr"
+   #     url: /_pages/Wkr/
+   #   - title: "Pwnable.kr"
+   #     url: /_pages/Pkr/
+   #   - title: "CTF Writeup"
+   #     url: /_pages/CTF_Writeup/
       
 
   - title: Hackurity
