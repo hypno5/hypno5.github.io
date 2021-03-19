@@ -13,7 +13,7 @@ main:
   
 # sidebar
 docs:
- - title: Wargame
+  - title: Wargame
     children:
       - title: "Webhacking.kr"
         url: /_pages/Wkr/
