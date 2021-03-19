@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "hypno5"
+description              : "해킹&보안 공부"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -272,7 +272,7 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: posts, docs
     values:
       layout: single
       author_profile: true
@@ -280,3 +280,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar:
+        nav:"docs"
+        
